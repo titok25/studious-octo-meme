@@ -1,0 +1,14 @@
+{
+  "name": "armario-checkout",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Loja de armário com checkout PIX integrado à FreePay, pronto para Railway.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
